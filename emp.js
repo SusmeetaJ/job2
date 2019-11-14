@@ -12,7 +12,7 @@ const connection = mysql.createConnection({
 
 var myData =[];
 connection.connect();
-
+var ii=iiill;
 // function validate(bodyContent)
 // {
 //     const schema = {
